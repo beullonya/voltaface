@@ -1,0 +1,12 @@
+.Header {
+    display: grid;
+    
+  }
+
+.headName {
+    grid-column: 1/3;
+}
+
+.logIn {
+    grid-column: 1/3;
+}
